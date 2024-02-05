@@ -1,0 +1,31 @@
+body {
+  background-color: pink; 
+}
+
+h1 {
+  color: Red
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+  width: 225px;
+}
+
+p, li, up, ol,h2, h3,h4,ul {
+  color: purple;
+  font-family: arial;
+}
+
+.header {
+  border: 3px solid purple;
+  background-color: white;
+  padding-left: 10px;
+  
+}
+
+.footer {
+  border: 3px solid purple;
+  background-color: white;
+  padding-left: 10px;
+}
